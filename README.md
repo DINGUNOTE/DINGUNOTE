@@ -1,6 +1,6 @@
 
 
-## 2022년에는 ‘하루에 한 줄의 코드를 작성하거나, 한 가지 속성을 배우더라도 꾸준히 기록을 남기자’라는 목표를 가지고 살아가고 있습니다. 😊<br>
+## 2022년에는 ‘하루에 한 줄의 코드를 작성하거나, 한 가지 속성을 배우더라도 꾸준히 기록을 남기자’라는 목표를 가지고 살아가고 있습니다. 😊<br><br>
 
 <!--
 **DINGUNOTE/dingunote** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
