@@ -1,4 +1,4 @@
-- 블로그 : [https://dingunote.github.io/](https://dingunote.github.io/)
+- 블로그 : [https://zekelee.github.io/](https://zekelee.github.io/)
 - 이메일 : web.ljg@gmail.com
 
 <!--
